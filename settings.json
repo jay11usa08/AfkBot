@@ -6,7 +6,7 @@
     "type": "Mojang"
   },
   "server": {
-    "ip": "KemmmChooo_Mitro.aternos.me:41004",
+    "ip": "KemmmChooo_Mitro.aternos.me",
     "port": 41004,
     "version": "",
     "try-creative": false
