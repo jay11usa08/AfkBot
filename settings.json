@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 600,
+      "repeat-delay": 300,
       "messages": [
         "lol",
         " owo ",
@@ -69,7 +69,7 @@
     "auto-eat": true
   },
   "beds": {
-    "pick-up-day": false,
+    "pick-up-day": true,
     "place-night": true
   },
   "discord": {
