@@ -50,11 +50,11 @@
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 15000
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 15000
     }
   },
   "modules": {
@@ -65,7 +65,7 @@
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": true,
+    "attack-mobs": false,
     "auto-eat": true
   },
   "beds": {
